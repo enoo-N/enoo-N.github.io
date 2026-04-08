@@ -1,10 +1,10 @@
 # Site settings
-title: Freelancer
+title: YuronkDev
 email: your-email@domain.com
-url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+url: 
+description: "Hi, my name is Yuronk and I'm currently working on Tower of Altheon."
+keywords: "hydrated, unbothered, moisturized"
+skills: "Game Developer — Tower of Altheon"
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -25,17 +25,17 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  primary: 2d362d #altheon green
+  primary-rgb: "45,54,45"
+  secondary: d0a933 #altheon gold
+  secondary-dark: 967922 #altheon gold, slightly darker
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
-  social: Around the Web
-  credits: Credits
+  copyright: YuronkDev
+  location: 
+  social: Follow My Progress!
+  credits: 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -56,7 +56,7 @@ address:
   - line: Beverly Hills, CA 90210
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Original Theme, "Freelancer" was created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
